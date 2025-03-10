@@ -52,5 +52,4 @@ This project is licensed under the **MIT License**.
 ---
 
 ### **🚀 Let's build a smarter city together!** 🏙️  
-
-Would you like to add any deployment instructions or future roadmap details? 🚀
+![image alt](https://github.com/Gauravsinghh55/Smart-city-/blob/8e13746eb11ed22ab75504ff3e819858f418e0f4/Screenshot%202025-03-10%20172150.png)
