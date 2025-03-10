@@ -56,4 +56,4 @@ This project is licensed under the **MIT License**.
 ![image alt](https://github.com/Gauravsinghh55/Smart-city-/blob/ce8202c1e31b938a9618aef0a896dd3351f57d39/Screenshot%202025-03-10%20172206.png)
 ![image alt](https://github.com/Gauravsinghh55/Smart-city-/blob/de38c859261d2f83015a4fead4321485e3d8d571/Screenshot%202025-03-10%20172219.png)
 ![image alt](https://github.com/Gauravsinghh55/Smart-city-/blob/1d2569a97fb795bb1dfd7a3ade2a98b19a8d1612/Screenshot%202025-03-10%20172230.png)
-![image alt]()
+![image alt](https://github.com/Gauravsinghh55/Smart-city-/blob/439cffa9a8ab150dd7dea5d9d550d6e3b07c56aa/Screenshot%202025-03-10%20172245.png)
